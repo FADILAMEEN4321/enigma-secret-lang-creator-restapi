@@ -1,0 +1,5 @@
+venv_enigma/
+.env
+*.pyc
+__pycache__/
+db.sqlite3
